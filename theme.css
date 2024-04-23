@@ -143,7 +143,7 @@
 }
 
 :root {
-  --app-background: url("https://github.com/Epimations/derpy-theme/blob/6e2d06d191b5e004923cf4bfaafb491ba494d0e2/derpywallpaper.png");
+  --app-background: url("https://raw.githubusercontent.com/Epimations/derpy-theme/efc394136a97cca41a5e0b14c0e103474f307f5a/derpywallpaper.png");
   --main-color: #992727;
   --main-color-selected: #aa2f2f;
   --main-color-semitransparent: #d4393926;
@@ -154,7 +154,7 @@
   --accent-desaturated: #b47a7a;
   --button-text: #dddddd;
   --button-text-selected: #ffffff;
-  --profile-background: url("https://github.com/Epimations/derpy-theme/blob/efc394136a97cca41a5e0b14c0e103474f307f5a/derpyprofile.png");
+  --profile-background: url("https://raw.githubusercontent.com/Epimations/derpy-theme/efc394136a97cca41a5e0b14c0e103474f307f5a/derpyprofile.png");
   --profile-activity: #6d1515;
   --scroll-thumb-color: #a54b4b;
 }
